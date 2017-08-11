@@ -3,11 +3,11 @@ HTMLElementPathfinder can reveal the hierarchical tag path to an element startin
 
 ## How to use
 
-    you@yourcomputer:~/HTMLElementPathfinder$ URL='https://www.nzz.ch/suche?form%5Bq%5D=Chefkoch' TEXT='Königin' ruby run.rb
+    you@yourcomputer:~/HTMLElementPathfinder$ URL='' TEXT='' ruby run.rb
 
 ## What you get
 
-    Find 'Königin' in 'https://www.nzz.ch/suche?form%5Bq%5D=Chefkoch':
+    Find '' in '':
     body class="page page--search "
       div class="l--main"
         div class="l--holder"
